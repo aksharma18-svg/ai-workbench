@@ -42,11 +42,7 @@ TASKS = {
     "4": {
         "name": "Explain",
         "prompt": "You are a patient teacher. Explain the user's text in simple terms that a non-expert can understand. Use analogies where helpful.",
-    },
-    "5": {
-        "name": "Translate",
-        "prompt": "You are a skilled translator. Translate the user's text into Spanish, maintaining the original meaning and tone.",
-    },
+    }
 }
 
 
